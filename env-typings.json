@@ -1,0 +1,4 @@
+{
+  "path": "./config/.env",
+  "output": "./config/env_types"
+}
